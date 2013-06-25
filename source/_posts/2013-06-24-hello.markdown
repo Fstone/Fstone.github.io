@@ -3,6 +3,6 @@ layout: post
 title: "Hello"
 date: 2013-06-24 03:18
 comments: true
-categories: 
+categories: [blog,octopress]
 ---
-Hello Octopress
+Hello Octopress, writing in hacker way.
