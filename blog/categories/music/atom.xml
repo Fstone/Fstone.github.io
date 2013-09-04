@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: music | 投石问路 | Fstone]]></title>
+  <link href="http://Fstone.github.io/blog/categories/music/atom.xml" rel="self"/>
+  <link href="http://Fstone.github.io/"/>
+  <updated>2013-09-04T23:07:42+08:00</updated>
+  <id>http://Fstone.github.io/</id>
+  <author>
+    <name><![CDATA[Fstone]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[天空之城]]></title>
+    <link href="http://Fstone.github.io/blog/2013/07/07/tian-kong-zhi-cheng/"/>
+    <updated>2013-07-07T11:55:00+08:00</updated>
+    <id>http://Fstone.github.io/blog/2013/07/07/tian-kong-zhi-cheng</id>
+    <content type="html"><![CDATA[<p>惭愧，现在才听李志的歌，这对装逼非常不利。这首天空之城果然没有辜负这个广为人知的歌名。</p>
+
+<iframe width="640" height="360" src="http://Fstone.github.io//www.youtube.com/embed/2n52uYI7eII" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+</feed>

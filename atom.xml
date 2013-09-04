@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[投石问路 | Fstone]]></title>
+  <link href="http://Fstone.github.io/atom.xml" rel="self"/>
+  <link href="http://Fstone.github.io/"/>
+  <updated>2013-09-04T23:07:42+08:00</updated>
+  <id>http://Fstone.github.io/</id>
+  <author>
+    <name><![CDATA[Fstone]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[天空之城]]></title>
+    <link href="http://Fstone.github.io/blog/2013/07/07/tian-kong-zhi-cheng/"/>
+    <updated>2013-07-07T11:55:00+08:00</updated>
+    <id>http://Fstone.github.io/blog/2013/07/07/tian-kong-zhi-cheng</id>
+    <content type="html"><![CDATA[<p>惭愧，现在才听李志的歌，这对装逼非常不利。这首天空之城果然没有辜负这个广为人知的歌名。</p>
+
+<iframe width="640" height="360" src="http://Fstone.github.io//www.youtube.com/embed/2n52uYI7eII" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My first eBook from Amazon]]></title>
+    <link href="http://Fstone.github.io/blog/2013/07/04/my-first-ebook-from-amazon/"/>
+    <updated>2013-07-04T11:22:00+08:00</updated>
+    <id>http://Fstone.github.io/blog/2013/07/04/my-first-ebook-from-amazon</id>
+    <content type="html"><![CDATA[<p>我的Kindle 3是代购的，之前因为Amazon的策略限制，不能买书，即使你有双币信用卡。据说是要账单地址是美国的，甚至IP都要是美国的。</p>
+
+<p>今天无意试了一下，还是用招行的双币信用卡，账单地址就填国内的，一键购买，竟然成了！手机立马收到扣费的短信。还好只挑了一本9.9美元的书，不算太贵。然后在Amazon后台操作，推送到Kindle，这是我在Amazon买的第一本电子书，感觉良好，请主席放心。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[中国合伙人]]></title>
+    <link href="http://Fstone.github.io/blog/2013/06/26/how-to-be-a-copartner/"/>
+    <updated>2013-06-26T03:12:00+08:00</updated>
+    <id>http://Fstone.github.io/blog/2013/06/26/how-to-be-a-copartner</id>
+    <content type="html"><![CDATA[<p>观《中国合伙人》有感，屌丝逆袭不是没有原因的。能否成事都可以归结于性格秉性使然，成东青冒着被打死的危险冲进愤怒的人群据理力争的镜头让我印象深刻，自愧不如。</p>
+
+<p>附上一首毛主席的诗《七律·和柳亚子先生》，自勉。</p>
+
+<p>饮茶粤海未能忘，</p>
+
+<p>索句渝州叶正黄。</p>
+
+<p>三十一年还旧国，</p>
+
+<p>落花时节读华章。</p>
+
+<p>牢骚太盛防肠断，</p>
+
+<p>风物长宜放眼量。</p>
+
+<p>莫道昆明池水浅，</p>
+
+<p>观鱼胜过富春江。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://Fstone.github.io/blog/2013/06/24/hello/"/>
+    <updated>2013-06-24T03:18:00+08:00</updated>
+    <id>http://Fstone.github.io/blog/2013/06/24/hello</id>
+    <content type="html"><![CDATA[<p>Hello Octopress, writing in hacker way.</p>
+]]></content>
+  </entry>
+  
+</feed>

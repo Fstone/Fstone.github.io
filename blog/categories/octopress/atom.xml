@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: octopress | 投石问路 | Fstone]]></title>
+  <link href="http://Fstone.github.io/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://Fstone.github.io/"/>
+  <updated>2013-09-04T23:07:42+08:00</updated>
+  <id>http://Fstone.github.io/</id>
+  <author>
+    <name><![CDATA[Fstone]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://Fstone.github.io/blog/2013/06/24/hello/"/>
+    <updated>2013-06-24T03:18:00+08:00</updated>
+    <id>http://Fstone.github.io/blog/2013/06/24/hello</id>
+    <content type="html"><![CDATA[<p>Hello Octopress, writing in hacker way.</p>
+]]></content>
+  </entry>
+  
+</feed>
